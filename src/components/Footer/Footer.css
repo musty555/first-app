@@ -1,0 +1,38 @@
+.footer-container{
+    background-color: #1b6f33;
+    margin: 0;
+    color: white;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+.f1, .f2, .f3,.f4{
+    width: 30%;
+    margin: 3px;
+}
+
+.f2 strong{
+    color: #28da5a;
+}
+
+.logos{
+    display: grid;
+    grid-template-columns: 20px 20px 20px 20px;
+    gap: 25px;
+}
+
+.copyright{
+    margin-top: 10px;
+}
+
+.copyright hr{
+    background-color: rgba(0, 0, 0, 0.178);
+}
+
+.copyright p{
+    margin-left: 33%;
+}

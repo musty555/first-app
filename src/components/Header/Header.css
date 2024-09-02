@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  /* amax-width: 1351px; */
+}
+
+.top-header{
+    background-color: green;
+    color: white;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.top-header img{
+    width: 20px;
+}
+
+.handle{
+    margin-left: 50px;
+    display: inline-block;
+    margin: 5px;
+    margin-left: 10%;
+    
+}
+
+.location{
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.contact{
+    margin-right: 5%;
+}

@@ -1,0 +1,40 @@
+.product-container{
+    background-color: #229133;
+    color: white;
+}
+
+.product-container h1{
+    display: flex;
+    justify-content: center;
+}
+
+.product1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.product1-text{
+    width: 50%;
+}
+
+.product2{
+    display: flex;
+    justify-content: center;
+}
+
+.product2-text{
+    width: 50%;
+}
+
+.product2-text button{
+    color: #229133;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: white;
+}
+
+.product-container img{
+    width: 25%;
+}

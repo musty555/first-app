@@ -1,0 +1,43 @@
+
+.ab1{
+    display: flex;
+    justify-content: center;
+    background-color: black ;
+    color: white;
+}
+
+.ab2{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.product-team{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+
+}
+
+.product-team img{
+    margin-top: 80px;
+    
+}
+
+.text-product{
+    width: 40%;
+}
+
+.text-product p{
+    font-size: 18px;
+}
+
+.text-product h4{
+    color: rgba(0, 0, 0, 0.366);
+}
+
+.text-product a{
+    color: black;
+}
